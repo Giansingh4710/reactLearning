@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "yt-dl",
+    "slug": "yt-dl",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

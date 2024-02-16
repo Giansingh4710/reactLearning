@@ -1,0 +1,73 @@
+* {
+  font-family: "Helvetica";
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+}
+
+.users {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+}
+
+.mainBox {
+  border: 1px solid rgb(170, 100, 0);
+  border-radius: 20px;
+}
+
+.usersHeading {
+  display: flex;
+  flex-direction: "column";
+  /* border: 1px solid rgb(0, 0, 0); */
+  background-color: #dcdcdc;
+  border-radius: 20px;
+}
+.indBox {
+  display: flex;
+  flex-direction: "column";
+  border: 1px solid rgb(0, 0, 0);
+}
+.personName {
+  flex: 2;
+}
+.edit {
+  margin: 10px;
+  flex: 0.5;
+  /* background-color: aqua; */
+  border-radius: 5px;
+}
+.delete {
+  margin: 10px;
+  flex: 0.5;
+  background-color: red;
+  border-radius: 5px;
+}
+.indButton {
+  margin: 10px;
+  flex: 0.5;
+  /* left: 200px; */
+  color: rgb(97, 157, 138);
+  background-color: aqua;
+  border-radius: 5px;
+}
+.indButton {
+  margin: 10px;
+  flex: 0.5;
+  /* left: 200px; */
+  color: rgb(97, 157, 138);
+  background-color: aqua;
+  border-radius: 5px;
+}
+.col {
+  display: flex;
+  columns: 100px;
+}
+.create {
+  /* position: absolute; */
+  /* left: 200px; */
+  /* margin-top: 350px; */
+  width: 10%;
+}

@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "youtube-dl",
+    "slug": "youtube-dl",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "youtube-dl"
+}
